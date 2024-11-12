@@ -1,0 +1,11 @@
+C:\Users\Aluno Noite\source\repos\TesteCore\bin\Debug\net8.0\TesteCore.deps.json
+C:\Users\Aluno Noite\source\repos\TesteCore\bin\Debug\net8.0\TesteCore.dll
+C:\Users\Aluno Noite\source\repos\TesteCore\bin\Debug\net8.0\TesteCore.pdb
+C:\Users\Aluno Noite\source\repos\TesteCore\obj\Debug\net8.0\TesteCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno Noite\source\repos\TesteCore\obj\Debug\net8.0\TesteCore.AssemblyInfoInputs.cache
+C:\Users\Aluno Noite\source\repos\TesteCore\obj\Debug\net8.0\TesteCore.AssemblyInfo.cs
+C:\Users\Aluno Noite\source\repos\TesteCore\obj\Debug\net8.0\TesteCore.csproj.CoreCompileInputs.cache
+C:\Users\Aluno Noite\source\repos\TesteCore\obj\Debug\net8.0\TesteCore.dll
+C:\Users\Aluno Noite\source\repos\TesteCore\obj\Debug\net8.0\refint\TesteCore.dll
+C:\Users\Aluno Noite\source\repos\TesteCore\obj\Debug\net8.0\TesteCore.pdb
+C:\Users\Aluno Noite\source\repos\TesteCore\obj\Debug\net8.0\ref\TesteCore.dll
